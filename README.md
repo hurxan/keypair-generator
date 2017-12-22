@@ -3,7 +3,7 @@
 A simple project based on PHP that: 
 
 ```markdown
-1. Generates a keypair with whichever algorithm.
+1. Generates a keypair with a chosen algorithm.
 2. Computes the signature of a message.
 3. Verifies the singature created before.
 
