@@ -9,4 +9,5 @@ A simple project based on PHP that:
 
 ```
 The application is based on the OpenSSL library so make sure you have it enabled from the php.ini file.<br />
+
 For more details see [OpenSSL installation](http://php.net/manual/en/openssl.installation.php).
